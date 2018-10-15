@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frontpage_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lg"
+    tools:context="com.example.imransk.androidinterviewquestion.FrontPage">
+
+    <Button
+        android:id="@+id/bsq"
+        android:layout_width="299dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/bseeotherapps"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="45dp"
+        android:background="@drawable/button_bacground"
+        android:text="@string/sq"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/font_size_tv" />
+
+    <Button
+        android:id="@+id/btq"
+        android:layout_width="298dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bsq"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="58dp"
+        android:background="@drawable/button_bacground"
+        android:text="@string/tq"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/font_size_tv" />
+
+    <Button
+        android:id="@+id/bseeotherapps"
+        android:layout_width="297dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btq"
+        android:layout_alignEnd="@+id/btq"
+        android:layout_marginTop="57dp"
+        android:layout_marginEnd="-2dp"
+        android:background="@drawable/button_bacground"
+        android:text="@string/seeOther"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/font_size_tv" />
+
+    <Button
+        android:id="@+id/brateapp"
+        android:layout_width="198dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bseeotherapps"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/button_bacground"
+        android:text="@string/rateApp"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/font_size_tv" />
+</RelativeLayout>

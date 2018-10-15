@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Interview Question</string>
+    <string name="sq">Simple Questions</string>
+    <string name="tq">Tougle Questions</string>
+    <string name="seeOther">See Our Other Apps</string>
+    <string name="rateApp">Rate App</string>
+    <string name="tv_xx">XX/</string>
+    <string name="tv_yy">YY</string>
+    <string name="tv_question">Question</string>
+    <string name="tv_answer">Press A Button for Answer</string>
+    <string name="C_Q">Catego Question</string>
+    <string name="C_I">Android Interview</string>
+    <string name="wctext">Welcome Android Interview Question</string>
+</resources>

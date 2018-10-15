@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ques">
+        <item>What is Android ?</item>
+
+        <item>What is An Activity ?</item>
+
+        <item>What is the APK Format ?</item>
+        <item>What is the Intent ?</item>
+        <item>What Language does android support to develop an application ?</item>
+        <item>What do ADT stands for ?</item>
+    </string-array>
+</resources>

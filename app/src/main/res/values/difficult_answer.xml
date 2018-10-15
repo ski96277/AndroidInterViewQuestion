@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="difficult_ans">
+        <item>Android application architecture has the following componant :-\n\n
+      (a) Service :- It will perform background functionalities .\n\n
+      (b) Intent :- It will perform the inter connection between activites and data passing mechanism.\n\n
+      (c) Resource Externalization :- string and graphics\n\n
+      (d) Notification :- Light,sound,icon,notification,dialogbox,and toast\n\n
+      (e) Content Providers :- it will share the data between application\n\n
+        </item>
+
+        <item>An explicit intent is one that you use to launch a specific app
+            component, such as a particular activity or service in your app.</item>
+        <item>An application can define the target component directly in the intent (explicit intent)
+            or ask the Android system to evaluate registered components
+            based on the intent data(implicit intents).</item>
+        <item>Android SDK collaborated with Android Emulator .DDMS(Dalvik Debug Monitoring Service). AAPT(Android assest Packing tool)
+        and ADB(Android debug bridge</item>
+
+    </string-array>
+</resources>

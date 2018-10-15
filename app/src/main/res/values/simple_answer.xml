@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="simple_ans">
+        <item>Android is a software package and linux based operating system for mobile devices such as tablet computers and smartphones.</item>
+
+        <item>Activity performs action on the Screen .\n\n
+        If you want to do any operations.we can do with activity. </item>
+
+        <item>Android Package Kit (APK) is the package file format used by the Android operating system
+            for distribution and installation of mobile apps and middleware.</item>
+        <item>An Intent is basically a message to say you did or want something to happen. Depending on the intent,
+            apps or the OS might be listening for it and will react accordingly.</item>
+
+        <item>Android applications has written using the java(Android SDK) and C/C++(Android NDK)</item>
+        <item>ADT stands for Android development tools . This is usedul to develop the applications and test the application</item>
+
+    </string-array>
+</resources>
